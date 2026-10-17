@@ -8,3 +8,15 @@ dev.log
 .env.*
 .vercel
 .DS_Store
+
+# Essential files (per request — tracked copies stay in the repo)
+.gitignore
+README.md
+index.html
+package.json
+package-lock.json
+tsconfig.json
+vite.config.ts
+src/
+docs/
+scripts/
