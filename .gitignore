@@ -1,0 +1,10 @@
+node_modules
+dist
+smoke-output
+preview.log
+dev.log
+*.tsbuildinfo
+.env
+.env.*
+.vercel
+.DS_Store
